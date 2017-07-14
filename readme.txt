@@ -7,3 +7,4 @@ abcde
 jiajidjf
 Createing a new branch is quick and simple.
 test2
+stash test
